@@ -502,7 +502,7 @@ http-errors                                                                   2.
 hwdata                                                                        0.382-1                                 alpm                           
 iana-etc                                                                      20240412-1                              alpm                           
 iconv-lite                                                                    0.4.24                                  npm                            
-icu                                                                           74.2-2                                  alpm                           
+icu                                                                           75.1-1                                  alpm                           
 ijs                                                                           0.35-6                                  alpm                           
 imath                                                                         3.1.11-2                                alpm                           
 imlib2                                                                        1.12.2-2                                alpm                           
@@ -801,7 +801,7 @@ pyxdg                                                                         0.
 qpdf                                                                          11.9.0-1                                alpm                           
 qs                                                                            6.11.0                                  npm                            
 range-parser                                                                  1.2.1                                   npm                            
-raptor                                                                        2.0.16-4                                alpm                           
+raptor                                                                        2.0.16-5                                alpm                           
 rav1e                                                                         0.7.1-1                                 alpm                           
 raw-body                                                                      2.5.2                                   npm                            
 readline                                                                      8.2.010-1                               alpm                           
