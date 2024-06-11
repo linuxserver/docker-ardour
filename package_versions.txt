@@ -565,7 +565,7 @@ libdovi                                                                       3.
 libdrm                                                                        2.4.121-1                               alpm                            
 libedit                                                                       20240517_3.1-1                          alpm                            
 libelf                                                                        0.191-3                                 alpm                            
-libev                                                                         4.33-2                                  alpm                            
+libev                                                                         4.33-3                                  alpm                            
 libevent                                                                      2.1.12-4                                alpm                            
 libexif                                                                       0.6.24-2                                alpm                            
 libffi                                                                        3.4.6-1                                 alpm                            
