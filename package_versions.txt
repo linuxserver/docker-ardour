@@ -665,7 +665,7 @@ libxpm                                                                        3.
 libxrandr                                                                     1.5.4-1                                 alpm                            
 libxrender                                                                    0.9.11-1                                alpm                            
 libxshmfence                                                                  1.3.2-1                                 alpm                            
-libxslt                                                                       1.1.40-1                                alpm                            
+libxslt                                                                       1.1.40-2                                alpm                            
 libxt                                                                         1.3.0-1                                 alpm                            
 libxtst                                                                       1.2.4-1                                 alpm                            
 libxv                                                                         1.0.12-1                                alpm                            
