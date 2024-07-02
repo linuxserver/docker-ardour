@@ -611,7 +611,7 @@ libp11-kit                                                                    0.
 libpaper                                                                      2.2.5-1                                 alpm                           
 libpcap                                                                       1.10.4-1                                alpm                           
 libpciaccess                                                                  0.18.1-2                                alpm                           
-libpipewire                                                                   1:1.0.7-2                               alpm                           
+libpipewire                                                                   1:1.2.0-2                               alpm                           
 libplacebo                                                                    6.338.2-7                               alpm                           
 libpng                                                                        1.6.43-1                                alpm                           
 libppd                                                                        2.0.0-1                                 alpm                           
