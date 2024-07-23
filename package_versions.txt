@@ -583,7 +583,7 @@ libice                                                                        1.
 libidn                                                                        1.42-1                                  alpm                           
 libidn2                                                                       2.3.7-1                                 alpm                           
 libiec61883                                                                   1.2.0-8                                 alpm                           
-libinstpatch                                                                  1.1.6-2                                 alpm                           
+libinstpatch                                                                  1.1.6-3                                 alpm                           
 libisl                                                                        0.26-2                                  alpm                           
 libjpeg-turbo                                                                 3.0.3-1                                 alpm                           
 libjxl                                                                        0.10.3-1                                alpm                           
