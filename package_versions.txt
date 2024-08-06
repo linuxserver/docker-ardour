@@ -114,7 +114,7 @@ finalhandler                                                                  1.
 findutils                                                                     4.10.0-1                                alpm                           
 flac                                                                          1.4.3-2                                 alpm                           
 flex                                                                          2.6.4-5                                 alpm                           
-fluidsynth                                                                    2.3.5-1                                 alpm                           
+fluidsynth                                                                    2.3.6-1                                 alpm                           
 fontconfig                                                                    2:2.15.0-2                              alpm                           
 forwarded                                                                     0.2.0                                   npm                            
 freetype2                                                                     2.13.2-2                                alpm                           
@@ -607,7 +607,7 @@ libp11-kit                                                                    0.
 libpaper                                                                      2.2.5-1                                 alpm                           
 libpcap                                                                       1.10.4-1                                alpm                           
 libpciaccess                                                                  0.18.1-2                                alpm                           
-libpipewire                                                                   1:1.2.1-1                               alpm                           
+libpipewire                                                                   1:1.2.2-1                               alpm                           
 libplacebo                                                                    7.349.0-1                               alpm                           
 libpng                                                                        1.6.43-1                                alpm                           
 libppd                                                                        2.0.0-2                                 alpm                           
