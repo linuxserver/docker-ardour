@@ -218,12 +218,12 @@ github.com/distribution/reference                                             v0
 github.com/docker/buildx                                                      v0.16.0                                 go-module                      
 github.com/docker/cli                                                         v27.1.0+incompatible                    go-module                      
 github.com/docker/cli-docs-tool                                               v0.8.0                                  go-module                      
-github.com/docker/cli/cmd/docker                                              27.1.1                                  go-module                      
-github.com/docker/compose/v2                                                  2.29.1                                  go-module                      
+github.com/docker/cli/cmd/docker                                              v27.1.1                                 go-module                      
+github.com/docker/compose/v2                                                  v2.29.1                                 go-module                      
 github.com/docker/distribution                                                v2.8.3+incompatible                     go-module     (+1 duplicate)   
-github.com/docker/docker                                                      27.1.1                                  go-module                      
 github.com/docker/docker                                                      v0.0.0-20240723193628-cc13f9525111      go-module                      
 github.com/docker/docker                                                      v27.1.0+incompatible                    go-module                      
+github.com/docker/docker                                                      v27.1.1                                 go-module                      
 github.com/docker/docker-credential-helpers                                   v0.8.2                                  go-module                      
 github.com/docker/go                                                          v1.5.1-1.0.20160303222718-d30aec9fd63c  go-module                      
 github.com/docker/go-connections                                              v0.5.0                                  go-module     (+1 duplicate)   
