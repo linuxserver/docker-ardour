@@ -15,7 +15,7 @@ amdvlk                                                                        20
 ansi-styles                                                                   4.3.0                                   npm                            
 aom                                                                           3.10.0-1                                alpm                           
 archlinux-keyring                                                             20240709-1                              alpm                           
-ardour                                                                        8.6-1                                   alpm                           
+ardour                                                                        8.6-2                                   alpm                           
 argon2                                                                        20190702-6                              alpm                           
 array-flatten                                                                 1.1.1                                   npm                            
 async                                                                         3.2.6                                   npm                            
