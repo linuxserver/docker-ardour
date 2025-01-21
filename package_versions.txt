@@ -878,7 +878,7 @@ snappy                                                                        1.
 socket.io                                                                     4.8.1                                   npm                            
 socket.io-adapter                                                             2.5.5                                   npm                            
 socket.io-parser                                                              4.2.4                                   npm                            
-sord                                                                          0.16.16-1                               alpm                           
+sord                                                                          0.16.18-1                               alpm                           
 speex                                                                         1.2.1-2                                 alpm                           
 speexdsp                                                                      1.2.1-2                                 alpm                           
 spice                                                                         0.15.2-1                                alpm                           
