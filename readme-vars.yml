@@ -6,6 +6,7 @@ project_url: "https://ardour.org/"
 project_logo: "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ardour-logo.png"
 project_blurb: "[Ardour]({{ project_url }}) is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers."
 project_lsio_github_repo_url: "https://github.com/linuxserver/docker-{{ project_name }}"
+project_categories: "Audio Processing"
 project_blurb_optional_extras_enabled: false
 # supported architectures
 available_architectures:
