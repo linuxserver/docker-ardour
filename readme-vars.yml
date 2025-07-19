@@ -31,20 +31,16 @@ param_volumes:
 # optional parameters
 opt_param_usage_include_ports: true
 opt_param_ports:
-  - {external_port: "3000", internal_port: "3000", port_desc: "Ardour desktop gui"}
+  - {external_port: "3000", internal_port: "3000", port_desc: "Ardour desktop gui HTTP, must be proxied"}
   - {external_port: "3001", internal_port: "3001", port_desc: "Ardour desktop gui HTTPS"}
-# Kasm blurb settings
-kasm_blurb: true
+# Selkies blurb settings
+selkies_blurb: true
 show_nvidia: true
-external_http_port: "3000"
-external_https_port: "3001"
-noto_fonts: "noto-fonts-cjk"
 # application setup block
 app_setup_block_enabled: true
 app_setup_block: |
   The application can be accessed at:
 
-  * http://yourhost:3000/
   * https://yourhost:3001/
 # init diagram
 init_diagram: |
@@ -110,4 +106,5 @@ init_diagram: |
   "ardour:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "12.07.25:", desc: "Rebase to Selkies, HTTPS IS NOW REQUIRED."}
   - {date: "10.04.24:", desc: "Initial release."}
