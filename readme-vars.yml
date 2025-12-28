@@ -105,5 +105,6 @@ init_diagram: |
   "ardour:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "28.12.25:", desc: "Add Wayland init logic."}
   - {date: "12.07.25:", desc: "Rebase to Selkies, HTTPS IS NOW REQUIRED."}
   - {date: "10.04.24:", desc: "Initial release."}
