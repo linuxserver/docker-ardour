@@ -10,7 +10,9 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="Thelamer"
 
 # title
-ENV TITLE=Ardour
+ENV TITLE=Ardour \
+    NO_GAMEPAD=true \
+    PIXELFLUX_WAYLAND=true
 
 RUN \
   echo "**** add icon ****" && \
@@ -21,7 +23,7 @@ RUN \
   pacman -Sy --noconfirm --needed \
     ardour && \
   ln -s \
-    /usr/bin/ardour8 \
+    /usr/bin/ardour9 \
     /usr/bin/ardour && \
   echo "**** cleanup ****" && \
   rm -rf \
